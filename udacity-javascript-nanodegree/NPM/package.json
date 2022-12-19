@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Setting up node project with Node Package Manager",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix --ext .js",
+    "prettier": "prettier --config .prettierrc src//**/*.js --write"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "packages",
+    "dependencies"
+  ],
+  "author": "Badrudeen",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.0"
+  }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Observe prayer",
+        "time": "Fajr"
+    },
+    {
+        "task": "Do adhkar",
+        "time": "After prayer"
+    },
+    {
+        "task": "Read Quran",
+        "time": "After adhkar"
+    },
+    {
+        "task": "Eat breakfast",
+        "time": "After Quran"
+    },
+    {
+        "task": "Write some code",
+        "time": "After breakfast"
+    }
+]

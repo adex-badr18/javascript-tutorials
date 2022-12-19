@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Observe tahajjud",
+        "time": "Fajr"
+    },
+    {
+        "task": "Make supplications",
+        "time": "After prayer"
+    },
+    {
+        "task": "Observe Subhi prayer",
+        "time": "After adhkar"
+    },
+    {
+        "task": "Recite adhkar and Memorise Quran",
+        "time": "After Quran"
+    },
+    {
+        "task": "Write some program",
+        "time": "After breakfast"
+    }
+]
